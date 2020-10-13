@@ -24,5 +24,55 @@
       "lastName": "Kukold",
       "personalIdentificationNumber": "1234567893"
     }
+  ],
+  "scorings": [
+    {
+      "id": 1,
+      "type": "SURVEY",
+      "clientId": 1,
+      "result": "BAD"
+    },
+    {
+      "id": 2,
+      "type": "SURVEY_MARKER",
+      "clientId": 1,
+      "result": "GOOD"
+    },
+    {
+      "id": 3,
+      "type": "SURVEY",
+      "clientId": 2,
+      "result": "GOOD"
+    },
+    {
+      "id": 4,
+      "type": "SURVEY_MARKER",
+      "clientId": 2,
+      "result": "BAD"
+    },
+    {
+      "id": 5,
+      "type": "SURVEY",
+      "clientId": 3,
+      "result": "GOOD"
+    },
+    {
+      "id": 6,
+      "type": "SURVEY_MARKER",
+      "clientId": 3,
+      "result": "BAD"
+    },
+    {
+      "id": 7,
+      "type": "SURVEY",
+      "clientId": 4,
+      "result": "GOOD"
+    },
+    {
+      "id": 8,
+      "type": "SURVEY_MARKER",
+      "clientId": 4,
+      "result": "GOOD"
+    }
   ]
 }
