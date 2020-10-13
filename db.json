@@ -28,49 +28,49 @@
   "scorings": [
     {
       "id": 1,
-      "type": "survey",
+      "type": "SURVEY",
       "clientId": 1,
       "result": "bad"
     },
     {
       "id": 2,
-      "type": "survey marker",
+      "type": "SURVEY_MARKER",
       "clientId": 1,
       "result": "good"
     },
     {
       "id": 3,
-      "type": "survey",
+      "type": "SURVEY",
       "clientId": 2,
       "result": "good"
     },
     {
       "id": 4,
-      "type": "survey marker",
+      "type": "SURVEY_MARKER",
       "clientId": 2,
       "result": "bad"
     },
     {
       "id": 5,
-      "type": "survey",
+      "type": "SURVEY",
       "clientId": 3,
       "result": "good"
     },
     {
       "id": 6,
-      "type": "survey marker",
+      "type": "SURVEY_MARKER",
       "clientId": 3,
       "result": "bad"
     },
     {
       "id": 7,
-      "type": "survey",
+      "type": "SURVEY",
       "clientId": 4,
       "result": "good"
     },
     {
       "id": 8,
-      "type": "survey marker",
+      "type": "SURVEY_MARKER",
       "clientId": 4,
       "result": "good"
     }
