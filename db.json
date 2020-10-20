@@ -4,25 +4,41 @@
       "id": 1,
       "firstName": "Karol",
       "lastName": "Kukold",
-      "personalIdentificationNumber": "1234567890"
+      "personalIdentificationNumber": "1234567890",
+      "surveyScoringResult": "GOOD",
+      "surveyScoringResultDate": "2020-01-01",
+      "scoringMarkerResult": "GOOD",
+      "scoringMarkerResultDate": "2020-01-01"
     },
     {
       "id": 2,
       "firstName": "Grzegorz",
       "lastName": "Kukold",
-      "personalIdentificationNumber": "1234567891"
+      "personalIdentificationNumber": "1234567891",
+      "surveyScoringResult": "BAD",
+      "surveyScoringResultDate": "2020-01-01",
+      "scoringMarkerResult": "GOOD",
+      "scoringMarkerResultDate": "2020-02-01"
     },
     {
       "id": 3,
       "firstName": "Adrian",
       "lastName": "Kukold",
-      "personalIdentificationNumber": "1234567892"
+      "personalIdentificationNumber": "1234567892",
+      "surveyScoringResult": "GOOD",
+      "surveyScoringResultDate": "2020-03-01",
+      "scoringMarkerResult": "BAD",
+      "scoringMarkerResultDate": "2020-04-01"
     },
     {
       "id": 4,
       "firstName": "Edward",
       "lastName": "Kukold",
-      "personalIdentificationNumber": "1234567893"
+      "personalIdentificationNumber": "1234567893",
+      "surveyScoringResult": "GOOD",
+      "surveyScoringResultDate": "2020-05-11",
+      "scoringMarkerResult": "GOOD",
+      "scoringMarkerResultDate": "2020-05-11"
     }
   ],
   "scorings": [
