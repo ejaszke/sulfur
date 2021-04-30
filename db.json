@@ -2,43 +2,135 @@
   "patients": [
     {
       "id": 1,
-      "firstName": "Karol",
-      "lastName": "Kukold",
-      "personalIdentificationNumber": "1234567890",
-      "surveyScoringResult": "GOOD",
-      "surveyScoringResultDate": "2020-01-01",
-      "scoringMarkerResult": "GOOD",
-      "scoringMarkerResultDate": "2020-01-01"
+      "firstName": "Robert",
+      "lastName": "Lewandowski",
+      "pesel": "1234567890",
+      "age": 34,
+      "gender": "MALE",
+      "height": 185,
+      "weight": 80,
+      "diseases": [
+        "HYPERTENSION",
+        "DIABETES"
+      ],
+      "markers": [
+        {
+          "rsId": "rs2230322",
+          "risk": "CC"
+        },
+        {
+          "rsId": "rs2240312",
+          "risk": "UNKNOWN"
+        }
+      ],
+      "riskAssessment": {
+        "score": "STANDARD"
+      }
     },
     {
       "id": 2,
-      "firstName": "Grzegorz",
-      "lastName": "Kukold",
-      "personalIdentificationNumber": "1234567891",
-      "surveyScoringResult": "BAD",
-      "surveyScoringResultDate": "2020-01-01",
-      "scoringMarkerResult": "GOOD",
-      "scoringMarkerResultDate": "2020-02-01"
+      "firstName": "Kamil",
+      "lastName": "Grosicki",
+      "pesel": "1254567890",
+      "age": 40,
+      "gender": "MALE",
+      "height": 125,
+      "weight": 150,
+      "diseases": [
+        "HYPERTENSION",
+        "DIABETES"
+      ],
+      "markers": [
+        {
+          "rsId": "rs2230322",
+          "risk": "CC"
+        },
+        {
+          "rsId": "rs2240312",
+          "risk": "UNKNOWN"
+        }
+      ],
+      "riskAssessment": {
+        "score": "RISEN"
+      }
     },
     {
       "id": 3,
-      "firstName": "Adrian",
-      "lastName": "Kukold",
-      "personalIdentificationNumber": "1234567892",
-      "surveyScoringResult": "GOOD",
-      "surveyScoringResultDate": "2020-03-01",
-      "scoringMarkerResult": "BAD",
-      "scoringMarkerResultDate": "2020-04-01"
+      "firstName": "Anna",
+      "lastName": "Lewandowska",
+      "pesel": "1254567790",
+      "age": 70,
+      "gender": "FEMALE",
+      "height": 175,
+      "weight": 70,
+      "diseases": [
+        "HYPERTENSION",
+        "CANCER"
+      ],
+      "markers": [
+        {
+          "rsId": "rs2230322",
+          "risk": "CC"
+        },
+        {
+          "rsId": "rs2240312",
+          "risk": "UNKNOWN"
+        }
+      ],
+      "riskAssessment": {
+        "score": "LOWERED"
+      }
     },
     {
       "id": 4,
-      "firstName": "Edward",
-      "lastName": "Kukold",
-      "personalIdentificationNumber": "1234567893",
-      "surveyScoringResult": "GOOD",
-      "surveyScoringResultDate": "2020-05-11",
-      "scoringMarkerResult": "GOOD",
-      "scoringMarkerResultDate": "2020-05-11"
+      "firstName": "Michał",
+      "lastName": "Wiśniewski",
+      "pesel": "1254567799",
+      "age": 30,
+      "gender": "MALE",
+      "height": 135,
+      "weight": 80,
+      "diseases": [
+        "HYPERTENSION",
+        "ASTHMA"
+      ],
+      "markers": [
+        {
+          "rsId": "rs2230322",
+          "risk": "CC"
+        },
+        {
+          "rsId": "rs2240312",
+          "risk": "UNKNOWN"
+        }
+      ],
+      "riskAssessment": {
+        "score": "LOWERED"
+      }
+    },
+    {
+      "id": 5,
+      "firstName": "Doanld",
+      "lastName": "Masłowski",
+      "pesel": "1254567799",
+      "age": 30,
+      "gender": "MALE",
+      "height": 135,
+      "weight": 80,
+      "diseases": [
+        "ASTHMA"
+      ],
+      "markers": [
+        {
+          "rsId": "rs2230322",
+          "risk": "CC"
+        },
+        {
+          "rsId": "rs2240312",
+          "risk": "UNKNOWN"
+        }
+      ],
+      "riskAssessment": null
     }
   ],
   "scorings": [
