@@ -24,7 +24,7 @@
         }
       ],
       "riskAssessment": {
-        "score": "STANDARD"
+        "score": "MODERATE"
       }
     },
     {
@@ -51,7 +51,7 @@
         }
       ],
       "riskAssessment": {
-        "score": "RISEN"
+        "score": "HIGH"
       }
     },
     {
@@ -78,7 +78,7 @@
         }
       ],
       "riskAssessment": {
-        "score": "LOWERED"
+        "score": "LOW"
       }
     },
     {
@@ -105,7 +105,7 @@
         }
       ],
       "riskAssessment": {
-        "score": "LOWERED"
+        "score": "LOW"
       }
     },
     {
