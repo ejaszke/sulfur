@@ -15,12 +15,24 @@
       ],
       "markers": [
         {
-          "rsId": "rs2230322",
-          "risk": "CC"
+          "rsID": "rs35508621",
+          "risk": "EMPTY"
         },
         {
-          "rsId": "rs2240312",
-          "risk": "UNKNOWN"
+          "rsID": "rs10160013",
+          "risk": "EMPTY"
+        },
+        {
+          "rsID": "rs56130410",
+          "risk": "EMPTY"
+        },
+        {
+          "rsID": "rs2286872",
+          "risk": "EMPTY"
+        },
+        {
+          "rsID": "rs4801713",
+          "risk": "EMPTY"
         }
       ],
       "riskAssessment": {
@@ -49,11 +61,23 @@
       ],
       "markers": [
         {
-          "rsId": "rs2230322",
-          "risk": "CC"
+          "rsID": "rs35508621",
+          "risk": "UNKNOWN"
         },
         {
-          "rsId": "rs2240312",
+          "rsID": "rs10160013",
+          "risk": "UNKNOWN"
+        },
+        {
+          "rsID": "rs56130410",
+          "risk": "UNKNOWN"
+        },
+        {
+          "rsID": "rs2286872",
+          "risk": "UNKNOWN"
+        },
+        {
+          "rsID": "rs4801713",
           "risk": "UNKNOWN"
         }
       ],
@@ -83,12 +107,24 @@
       ],
       "markers": [
         {
-          "rsId": "rs2230322",
-          "risk": "CC"
+          "rsID": "rs35508621",
+          "risk": "CT"
         },
         {
-          "rsId": "rs2240312",
-          "risk": "UNKNOWN"
+          "rsID": "rs10160013",
+          "risk": "GA"
+        },
+        {
+          "rsID": "rs56130410",
+          "risk": "TC"
+        },
+        {
+          "rsID": "rs2286872",
+          "risk": "TC"
+        },
+        {
+          "rsID": "rs4801713",
+          "risk": "CT"
         }
       ],
       "riskAssessment": {
@@ -162,12 +198,24 @@
       ],
       "markers": [
         {
-          "rsId": "rs2230322",
-          "risk": "CC"
+          "rsID": "rs35508621",
+          "risk": "CT"
         },
         {
-          "rsId": "rs2240312",
-          "risk": "UNKNOWN"
+          "rsID": "rs10160013",
+          "risk": "GA"
+        },
+        {
+          "rsID": "rs56130410",
+          "risk": "TC"
+        },
+        {
+          "rsID": "rs2286872",
+          "risk": "TT"
+        },
+        {
+          "rsID": "rs4801713",
+          "risk": "TT"
         }
       ],
       "riskAssessment": null
