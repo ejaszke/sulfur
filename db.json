@@ -96,12 +96,24 @@
       ],
       "markers": [
         {
-          "rsId": "rs2230322",
-          "risk": "CC"
+          "rsID": "rs35508621",
+          "risk": "EMPTY"
         },
         {
-          "rsId": "rs2240312",
+          "rsID": "rs10160013",
           "risk": "UNKNOWN"
+        },
+        {
+          "rsID": "rs56130410",
+          "risk": "TC"
+        },
+        {
+          "rsID": "rs2286872",
+          "risk": "TT"
+        },
+        {
+          "rsID": "rs4801713",
+          "risk": "TT"
         }
       ],
       "riskAssessment": {
